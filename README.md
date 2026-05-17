@@ -1,6 +1,5 @@
-# Secure Coding
+# Secure Coding (T-3,A-2)
 # Github Actions
 
-# T-3
 GitHub Actions Testing via Bandit, CodeQL, Lint
 Testing different format files
